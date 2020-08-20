@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" alt="Mark Music's Github Stats" src="https://github-readme-stats.vercel.app/api?username=markmusic2727" />
+<img align="right" alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmusic2727&layout=compact" />
