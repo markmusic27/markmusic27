@@ -1,1 +1,1 @@
-## __Hi, I'm [Mark!](www.twitter.com/https://twitter.com/MarkMusic2727)__ 👋
+## __Hi, I'm [Mark!](https://twitter.com/MarkMusic2727)__ 👋
