@@ -28,7 +28,35 @@
 - 🛸 [SpaceX](https://www.spacex.com/) Fanboy
 - 🌱 Currently learning TS, GraphQL, and React. Check out my [_Software Engineering Learning Journey_](https://github.com/markmusic2727/learning) here
 - 🚲 Love MTB Biking. Currently training for [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race
+- 🎙 Podcast called [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
 - 🏆 PROUDEST PROJECT: Safe, a powerfull tool for personal and community safety.
 
-![Mark Music Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&show_icons=true&title_color=0&icon_color=ff&text_color=9f9f9f&bg_color=151515)
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&show_icons=true&title_color=00&icon_color=ff&text_color=9f9f9f&bg_color=151515)
+
+---
+
+### Languages, Frameworks & Tools
+
+- JavaScript
+- TypeScript
+- React
+- Flutter
+- Dart
+- MathiumJS
+- PulseJS
+- NodeJS
+- JSON
+- Postgres
+- GraphQL
+- Git
+- GitHub
+- Visual Studio Code
+- NPM
+- Yarn
+- Terminal (iTerm2)
+- XCode
+- Figma
+- Adobe Creative Suite
+- Google Suite
+- Microsoft Office 365
 
