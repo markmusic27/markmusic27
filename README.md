@@ -22,14 +22,14 @@
 
 ### I'm a Full Stack Engineer and Co-Founder of Zyndicate based in San Jose
 
-- 🔧 Currently the COO of [zyndicate.app](https://www.zyndicate.app/)
-- 🕹 Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/)
-- 💡 MOST RECENT PROJECT: [Elo Rating Algorithm](https://github.com/markmusic2727/elo_rating_algorithm)
-- 🛸 [SpaceX](https://www.spacex.com/) Fanboy
-- 🌱 Currently learning TS, GraphQL, and React. Check out my [_Software Engineering Learning Journey_](https://github.com/markmusic2727/learning) here
-- 🚲 Love MTB Biking. Currently training for [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race
-- 🎙 Podcast called [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
-- 🏆 PROUDEST PROJECT: Safe, a powerfull tool for personal and community safety.
+- 🔧  Currently the COO of [zyndicate.app](https://www.zyndicate.app/)
+- 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/)
+- 💡  MOST RECENT PROJECT: [Elo Rating Algorithm](https://github.com/markmusic2727/elo_rating_algorithm)
+- 🛸  [SpaceX](https://www.spacex.com/) Fanboy
+- 🌱  Currently learning TS, GraphQL, and React. Check out my [_Software Engineering Learning Journey_](https://github.com/markmusic2727/learning) here
+- 🚲  Love MTB Biking. Currently training for [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race
+- 🎙  Podcast called [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
+- 🏆  PROUDEST PROJECT: Safe, a powerfull tool for personal and community safety.
 
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&show_icons=true&title_color=00&icon_color=ff&text_color=9f9f9f&bg_color=151515)
 
