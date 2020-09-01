@@ -31,7 +31,9 @@
 - 🎙  Podcast called [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
 - 🏆  PROUDEST PROJECT: Safe, a powerful tool for personal and community safety.
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&show_icons=true&title_color=00&icon_color=ff&text_color=9f9f9f&bg_color=151515)
+<br />
+
+![Mark Music Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&show_icons=true&title_color=00&icon_color=ff&text_color=9f9f9f&bg_color=151515)
 
 ---
 
