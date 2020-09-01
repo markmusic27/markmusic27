@@ -14,7 +14,7 @@
   <img align="left" alt="Spotify" width="30px" src="https://image.flaticon.com/icons/png/512/49/49097.png" />
 </a>
 <a href="mailto:markmusic999@gmail.com">
-  <img align="left" alt="Email" width="30px" src="https://i.pinimg.com/originals/3e/36/60/3e36600a9c6e8d4689605a1808916056.png" />
+  <img align="left" alt="Email" width="30px" src="https://www.svgrepo.com/show/94769/black-back-closed-envelope-shape.svg" />
 </a>
 
 <br />
