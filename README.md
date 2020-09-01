@@ -1,4 +1,4 @@
-## __Hi, I'm [Mark!](https://twitter.com/MarkMusic2727)__ 👋
+# __Hi, I'm [Mark!](https://twitter.com/MarkMusic2727)__ 👋
 
 <br/>
 <a href="https://twitter.com/MarkMusic2727">
@@ -19,3 +19,10 @@
 
 <br />
 <br />
+
+### I'm a Full Stack Engineer and Co-Founder of Zyndicate based in San Jose
+
+* 🔧 Currently the COO of [zyndicate.app](https://www.zyndicate.app/)
+* 🕹 Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/)
+* 💡 MOST RECENT PROJECT
+
