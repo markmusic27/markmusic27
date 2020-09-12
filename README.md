@@ -36,9 +36,6 @@
 
 ![Mark Music Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&show_icons=true&title_color=00&icon_color=ff&text_color=9f9f9f&bg_color=151515)
 
-<img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmusic2727&layout=compact" />
-
-
 ---
 
 ### Languages, Frameworks & Tools
