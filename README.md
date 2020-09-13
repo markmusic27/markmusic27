@@ -23,7 +23,7 @@
 ### I'm a Full Stack Engineer and Co-Founder of Zyndicate based in San Jose
 
 - 🔧  Currently the CEO of [SafeLabs](https://www.safelabs.app/), a powerful tool for personal and community safety.
-- ⌨️   Co Founder of [zyndicate.app](https://www.zyndicate.app/)
+- ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/)
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/)
 - 💡  MOST RECENT PROJECT: [Elo Rating Algorithm](https://github.com/markmusic2727/elo_rating_algorithm)
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
