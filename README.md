@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### I'm a Full Stack Engineer and Co-Founder of Zyndicate based in San Jose
+### I'm a Full Stack Engineer and Co-Founder of Safe based in San Jose
 
 - 🔧  Currently the CEO of SafeLabs, a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/)
