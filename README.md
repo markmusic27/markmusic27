@@ -57,6 +57,7 @@
 - Visual Studio Code
 - NPM
 - Yarn
+- Unity
 - Terminal (iTerm2)
 - XCode
 - Figma
