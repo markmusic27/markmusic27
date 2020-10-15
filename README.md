@@ -35,7 +35,7 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmusic2727&langs_count=8)](https://github.com/markmusic2727/github-readme-stats)
-<img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmusic2727&layout=compact" />
+<br />
 
 ![Mark Music Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&show_icons=true&title_color=00&icon_color=ff&text_color=9f9f9f&bg_color=151515)
 
