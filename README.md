@@ -25,7 +25,7 @@
 - 🔧  Currently the CEO of SafeLabs, a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/)
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/)
-- 💡  MOST RECENT PROJECT: [Avoid](https://github.com/filippo-fonseca/avoid)
+- 💡  MOST RECENT PROJECT: [Relicc](https://github.com/markmusic2727/relicc)
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
 - 🌱  Currently learning Flutter, GraphQL, and Dart. Check out my [_Software Engineering Learning Journey_](https://github.com/markmusic2727/learning) here
 - 🚵‍♂️  Love MTB Biking. Currently training for [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race
