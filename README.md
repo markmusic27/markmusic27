@@ -35,12 +35,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmusic2727&langs_count=8)](https://github.com/markmusic2727/github-readme-stats)
-<br />
-
-
----
-
 ### Languages, Frameworks & Tools
 
 - JavaScript
