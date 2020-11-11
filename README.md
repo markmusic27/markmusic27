@@ -22,7 +22,7 @@
 
 ### I'm a Full Stack Engineer and Co-Founder of SafeLabs based in San Jose
 
-- 🔧  Currently the CEO of SafeLabs, a powerful tool for personal and community safety.
+- 🔧  Currently the CEO of [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/)
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/)
 - 💡  MOST RECENT PROJECT: [Relicc](https://github.com/markmusic2727/relicc)
