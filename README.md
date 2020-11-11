@@ -25,7 +25,7 @@
 - 🔧  Currently the CEO of [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/)
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/)
-- 💡  MOST RECENT PROJECT: [Relicc](https://github.com/markmusic2727/relicc)
+- 💡  MOST RECENT PROJECT: [Babble](https://github.com/markmusic2727/babble), The redesigned, simplistic form of communication.
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
 - 🌱  Currently learning Flutter, GraphQL, and Dart. Check out my [_Software Engineering Learning Journey_](https://github.com/markmusic2727/learning) here
 - 🚵‍♂️  Love MTB Biking. Currently training for [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race
