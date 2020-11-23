@@ -27,7 +27,8 @@
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/)
 - 💡  MOST RECENT PROJECT: [Babble](https://github.com/markmusic2727/babble), The redesigned, simplistic form of communication.
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
-- 🌱  Currently learning Flutter, GraphQL, and Dart. Check out my [_Software Engineering Learning Journey_](https://github.com/markmusic2727/learning) here
+- 🌱  Currently learning TensorFlow / Python. Check out my [_Software Engineering Learning Journey_](https://github.com/markmusic2727/learning) here
+- 🪖  FAVORITE TECH STACK: [FlutterFire](https://firebase.flutter.dev/)
 - 🚵‍♂️  Love MTB Biking. Currently training for [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race
 - 🌮  Love Cooking. Here's a great recipe for [Tom Kha Gai](https://40aprons.com/tom-kha-soup-whole30/)
 - 🎙  Podcast called [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
