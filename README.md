@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### I'm a 15 year old Full Stack Engineer and Co-Founder of SafeLabs based in San Jose
+### I'm a 15 year old Full Stack Engineer and startup founder of [Safe](https://www.safelabs.app) + [Zyndicate](https://www.zyndicate.app) based in San Jose
 
 - 🔧  Currently the CEO of [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
@@ -37,7 +37,16 @@
 
 <br />
 
-### Languages, Frameworks & Tools
+### ⚡️ Skills
+
+- Primarily experienced in mobile development with Flutter & Dart. Knowledgeable in React Native
+- Web development expereience with React, TypeScript, & NextJS
+- Technologies include Firebase/FlutterFire, Firestore, TensorFlow, Google Cloud Platform, and more
+- Experience using Python (primarily for [Aero](https://github.com/aero-lang/aero) and Machine Learning/AI
+- Systems design & architerctural knowledge
+- Solid base in Arduino & hardware development
+
+
 
 - JavaScript
 - TypeScript
