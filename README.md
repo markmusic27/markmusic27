@@ -22,7 +22,7 @@
 
 ### I'm a 15 year old Full Stack Engineer and startup founder based in San Jose
 
-🙌 Creating tools that provide people with value.
+🙌 Creating tools that provide others with value.
 
 - 🔧  Currently the CEO of [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
