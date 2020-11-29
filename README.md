@@ -46,32 +46,6 @@
 - Systems design & architerctural knowledge
 - Solid base in Arduino & hardware development
 
-
-
-- JavaScript
-- TypeScript
-- React
-- Flutter
-- Dart
-- MathiumJS
-- PulseJS
-- NodeJS
-- JSON
-- Postgres
-- GraphQL
-- Git
-- GitHub
-- Visual Studio Code
-- NPM
-- Yarn
-- Unity
-- Terminal (iTerm2)
-- XCode
-- Figma
-- Adobe Creative Suite
-- Google Suite
-- Microsoft Office 365
-
 <br />
 <img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmusic2727&layout=compact" />
                                                                                                                                                
