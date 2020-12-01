@@ -56,7 +56,12 @@
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=markmusic2727)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<details>
+<summary>Click to toggle contents of `code`</summary>
+```
+CODE!
+```
+</details>
 
 <br />
 <br />
