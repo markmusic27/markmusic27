@@ -54,7 +54,6 @@
 <details>
 <summary>Stats</summary>
 <br />
-<br />
 <img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmusic2727&layout=compact" />
                                                                                                                                                
 <br />   
