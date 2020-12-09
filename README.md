@@ -1,6 +1,5 @@
 # __Hi, I'm [Mark!](https://twitter.com/MarkMusic2727)__ 👋
 
-```30px```
 <br/>
 
 <a href="https://twitter.com/MarkMusic2727">
