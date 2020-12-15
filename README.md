@@ -27,6 +27,7 @@
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
 - 🧠  Building [Beam AI](https://github.com/beam-ai), empowering revolutionary energy optimization with AI/ML and IOT.
 - 🚀 Also Working on [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software .
+- 🎓 Computer Science TA
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/), an open-source framework to implement math and computational functionality into your code easily and without the hassle.
 - 💡  MOST RECENT PROJECT: [Babble](https://github.com/markmusic2727/babble), The redesigned, simplistic form of communication.
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
