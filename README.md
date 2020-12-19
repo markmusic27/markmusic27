@@ -49,6 +49,16 @@
 - Systems design & architerctural knowledge
 - Solid base in Arduino & hardware development
 
+| Projects 🚧 | Info ℹ️ |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [Zyndicate](https://www.zyndicate.app) 🦄 | The all-in-one platform to organize your life. |
+| [Safe](https://www.safelabs.app) ⚡️ | A powerful tool for personal and community safety. |
+| [Beam AI](https://website.beam-ai.vercel.app/) 🧠 | Empowering revolutionary energy consumption with Deep Learning and the power of IOT. |
+| [Aero](https://github.com/aero-lang/aero) 🚀 |  An open-source programming language to empower everyone to build clean-cut, efficienct, powerful, and reliable software |
+| [MathiumJS](https://www.mathium.surge.sh) 🖊 | An open source framework for quickly and easily implementing math and computational functionality without the hassle. |
+| [Permutant](https://github.com/markmusic2727/permutant) ⛑ | A library that finds every possible permutation of an array using Heap's Algorithm. |
+| [Dev Sticks](https://github.com/markmusic2727/dev_sticks) 🏷 | An online repository of developer stickers from languages, frameworks, developer events, etc. |
+
 
 
 <details>
