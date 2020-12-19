@@ -58,6 +58,7 @@
 | [MathiumJS](https://www.mathium.surge.sh) 🖊 | An open source framework for quickly and easily implementing math and computational functionality without the hassle. |
 | [Permutant](https://github.com/markmusic2727/permutant) ⛑ | A library that finds every possible permutation of an array using Heap's Algorithm. |
 | [Dev Sticks](https://github.com/markmusic2727/dev_sticks) 🏷 | An online repository of developer stickers from languages, frameworks, developer events, etc. |
+| [Elo Rating Algorithm](https://github.com/markmusic2727/elo_rating_algorithm) ♟ | A recreation of the Elo Rating Algorithm. |
 
 
 
@@ -65,7 +66,7 @@
 <summary>Stats</summary>
 <br />
 
-<img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmusic2727&layout=compact" /                                                                                                                                                                                                                                                                              
+<img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmusic2727&layout=compact" />                                                                                                                                                                                                                                                                 
 <br /> 
 
 ![Mark's Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&count_private=true&show_icons=true&theme=algolia)
