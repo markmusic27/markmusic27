@@ -49,6 +49,8 @@
 - Systems design & architerctural knowledge
 - Solid base in Arduino & hardware development
 
+<br />
+
 | Projects 🚧 | Info ℹ️ |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [Zyndicate](https://www.zyndicate.app) 🦄 | The all-in-one platform to organize your life. |
