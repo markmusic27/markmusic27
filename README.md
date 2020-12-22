@@ -1,4 +1,4 @@
-# __Hi, I'm Mark 👋
+# Hi, I'm Mark 👋
 
 <br/>
 <a href="https://twitter.com/MarkMusic2727">
