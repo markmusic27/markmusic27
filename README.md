@@ -44,10 +44,10 @@
 ### ⚡️ Skills
 
 - Primarily experienced in mobile development with Flutter & Dart. Knowledgeable in React Native
-- Web development expereience with React, TypeScript, & NextJS
-- Technologies include Firebase/FlutterFire, Firestore, TensorFlow, Google Cloud Platform, and more
 - Experience using Python (primarily in Deep Learing / Machine Learning)
 - Systems design & architerctural knowledge (Mostly in C++ and Rust)
+- Web development experience with React, TypeScript, & NextJS
+- Technologies include Firebase/FlutterFire, Firestore, TensorFlow, Google Cloud Platform, and more
 - Solid base in electrical / mechanical engineering.
 
 <br />
