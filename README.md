@@ -47,8 +47,8 @@
 - Web development expereience with React, TypeScript, & NextJS
 - Technologies include Firebase/FlutterFire, Firestore, TensorFlow, Google Cloud Platform, and more
 - Experience using Python (primarily in Deep Learing / Machine Learning)
-- Systems design & architerctural knowledge
-- Solid base in Arduino & hardware development
+- Systems design & architerctural knowledge (Mostly in C++ and Rust)
+- Solid base in electrical / mechanical engineering.
 
 <br />
 
