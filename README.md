@@ -26,7 +26,7 @@
 - 🔧  Currently the CEO of [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
 - 🧠  Building [Beam AI](https://website-7qxh9e77r.vercel.app/) to empower revolutionary energy optimization with Deep Learning and IoT.
-- 🫁 Creator of [myrical.app](https://github.com/myracle-app), an open-source tool for automated multi-central, domino-based kidney transplant matching.
+- 🫁 Creator of [myrical.app](https://github.com/myrical-app/), an open-source tool for automated multi-central, domino-based kidney transplant matching.
 - 🚀  Working on [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software .
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/), an open-source framework to implement math and computational functionality into your code easily and without the hassle.
 - 🎓 Computer Science TA
