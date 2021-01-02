@@ -46,7 +46,7 @@
 - Primarily experienced in mobile development with Flutter & Dart. Knowledgeable in React Native
 - Web development expereience with React, TypeScript, & NextJS
 - Technologies include Firebase/FlutterFire, Firestore, TensorFlow, Google Cloud Platform, and more
-- Experience using Python (primarily for [Aero](https://github.com/aero-lang/aero) and Machine Learning/AI)
+- Experience using Python (primarily in Deep Learing / Machine Learning)
 - Systems design & architerctural knowledge
 - Solid base in Arduino & hardware development
 
