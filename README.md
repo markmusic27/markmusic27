@@ -69,6 +69,8 @@
 <summary>Stats</summary>                                                                                                                                                                                                                                                             
 <br /> 
 <br /> 
+  
+https://komarev.com/ghpvc/?username=markmusic2727d&style=flat-square
 
 ![Mark's Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&count_private=true&show_icons=true&theme=algolia)
 
