@@ -39,8 +39,6 @@
 - 🎙  Co-host of [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
 - 🏆  PROUDEST PROJECT: [Permutant](https://github.com/markmusic2727/permutant)
 
-<br />
-
 ### ⚡️ Skills
 
 - Primarily experienced in mobile development with Flutter & Dart. Knowledgeable in React Native
