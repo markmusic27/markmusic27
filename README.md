@@ -20,7 +20,6 @@
 </a>
 
 <br />
-<br />
 
 ### I'm a 15 year old Full Stack Engineer and startup founder based in San Jose
 
