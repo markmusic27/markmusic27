@@ -2,12 +2,21 @@
 <h1 align="center"> <b>Hi, I'm Mark 👋</b></h1>
 
 <p align="center">
-        <img src="https://github.com/alii/use-last-fm/workflows/CI/badge.svg" />
-        <img src="https://img.shields.io/github/issues/markmusic2727/gradient_decent_engine" />
-        <img src="https://img.shields.io/github/forks/markmusic2727/gradient_decent_engine" />
-        <img src="https://img.shields.io/github/stars/markmusic2727/gradient_decent_engine" />
-        <img src="https://img.shields.io/github/license/markmusic2727/gradient_decent_engine" />
-        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmarkmusic2727%2Fgradient_decent_engine" />
+<a href="https://twitter.com/MarkMusic2727">
+  <img align="left" alt="Mark Music| Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />
+</a>
+<a href="https://www.linkedin.com">
+  <img align="left" alt="Linkedin" width="30px" src="https://i.ibb.co/s2Hzm4t/61109.png" />
+</a>
+<a href="https://www.instagram.com/markmusic2727/">
+  <img align="left" alt="Instagram" width="30px" src="https://i.ibb.co/ggb3yxk/insta.png" />
+</a>
+<a href="https://open.spotify.com/user/wxz5d0in64yl12jqba74n4n39?si=R1Ad2ur1Tuq7zBG4MjUr9A">
+  <img align="left" alt="Spotify" width="30px" src="https://i.ibb.co/vk4Z96V/Spotify-Logo.png" />
+</a>
+<a href="mailto:markmusic999@gmail.com">
+  <img align="left" alt="Email" width="30px" src="https://i.ibb.co/FB5PR40/mail.png" />
+</a>
 </p>
 
 <br />
