@@ -1,7 +1,8 @@
 
 <h1 align="center"> <b>Hi, I'm Mark 👋</b></h1>
 
-<p align="center">
+<br />
+
 <a href="https://twitter.com/MarkMusic2727">
   <img align="left" alt="Mark Music| Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />
 </a>
@@ -17,8 +18,8 @@
 <a href="mailto:markmusic999@gmail.com">
   <img align="left" alt="Email" width="30px" src="https://i.ibb.co/FB5PR40/mail.png" />
 </a>
-</p>
 
+<br />
 <br />
 
 ### I'm a 15 year old Full Stack Engineer and startup founder based in San Jose
