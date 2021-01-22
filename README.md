@@ -16,10 +16,9 @@ I'm a 15 year old Full-Stack Engineer and startup founder that strives to build 
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
 - 🌱  Currently learning TensorFlow / Python. Check out my [_Software Engineering Learning Journey_](https://github.com/markmusic2727/learning) here
 - 🪖  FAVORITE TECH STACK: [FlutterFire](https://firebase.flutter.dev/)
-- 🚵‍♂️  Love MTB Biking. Just completed the [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race.
+- 🚵‍♂️  Love MTB Biking. Recently completed the [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race.
 - 🌮  Love Cooking. Here's a great recipe for [Tom Kha Gai](https://40aprons.com/tom-kha-soup-whole30/)
 - 🎙  Co-host of [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
-- 🏆  PROUDEST PROJECT: [Permutant](https://github.com/markmusic2727/permutant)
 
 | __⌨️ Hours Coded__ | __🎸 Currently listening to__ |
 | ----------- | ----- |
