@@ -36,7 +36,7 @@ I'm a 15 year old Full-Stack Engineer and startup founder that strives to build 
 
 #### Contact
 
-✉️ mail | __[markmusic999@gmail.com](malito:markmusic999@gmail.com)__
+✉️ mail | __[markmusic999@gmail.com](mailto:markmusic999@gmail.com)__
 
 🐦 twitter | __[markmusic2727](https://twitter.com/MarkMusic2727)__
 
