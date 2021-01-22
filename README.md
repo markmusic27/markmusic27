@@ -10,7 +10,7 @@ I'm a 15 year old Full-Stack Engineer and startup founder that strives to build 
 - 🫁 Creator of [myrical.app](https://github.com/myrical-app/), an open-source tool for automated multi-central, domino-based kidney transplant matching.
 - 🚀  Working on [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software.
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/), an open-source framework to implement math and computational functionality into your code easily and without the hassle.
-- 🌳 Constantly growing by enabling myself to learn and percieve the world through different perspectives
+- 🌳 Constantly growing.
 - ✒️ In love with learning about and implementing the underlying algorithms behind machine learning / deep learning.
 - 🎓 Computer Science TA
 - 💡  MOST RECENT PROJECT: [Babble](https://github.com/markmusic2727/babble), The redesigned, simplistic form of communication.
