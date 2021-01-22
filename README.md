@@ -52,3 +52,21 @@ Quote requested from _[The Silicon Valley API](https://github.com/markmusic2727/
 Check back in a few hours for a new quote!
 
 [//]: # (note that this is placeholder data while the infrastructure for changing it is built)
+
+<details>
+<summary>Stats</summary>                                                                                                                                                                                                                                                             
+<br /> 
+<br /> 
+  
+Profile Views Since January 4th
+  
+![Profile Views Since January 4th](https://komarev.com/ghpvc/?username=markmusic2727d&style=flat-square)
+
+![Mark's Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&count_private=true&show_icons=true&theme=algolia)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=markmusic2727)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<br />
+<br />
+<br />
