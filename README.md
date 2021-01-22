@@ -25,6 +25,8 @@ I'm a 15 year old Full-Stack Engineer and startup founder that strives to build 
 | ----------- | ----- |
 | 17:02:58 | _Slow Dancing in the Dark_ by Joji |
 
+[//]: # (note that this is placeholder data while the infrastructure for changing it is built)
+
 #### My Skills
 
 - Primarily experienced in mobile development with Flutter & Dart. Knowledgeable in React Native
@@ -49,3 +51,5 @@ I'm a 15 year old Full-Stack Engineer and startup founder that strives to build 
 Quote requested from _[The Silicon Valley API](https://github.com/markmusic2727/silicon-valley_api)_
 
 Check back in a few hours for a new quote!
+
+[//]: # (note that this is placeholder data while the infrastructure for changing it is built)
