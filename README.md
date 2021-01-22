@@ -1,31 +1,8 @@
+<img src="https://i.ibb.co/7Xj0SMT/Git-Hub-Header.png" />
 
-<h1 align="center"> <b>Hi, I'm Mark 👋</b></h1>
+### Hi, I'm Mark 👋
 
-<br />
-
-<a href="https://twitter.com/MarkMusic2727">
-  <img align="left" alt="Mark Music| Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />
-</a>
-<a href="https://www.linkedin.com">
-  <img align="left" alt="Linkedin" width="30px" src="https://i.ibb.co/s2Hzm4t/61109.png" />
-</a>
-<a href="https://www.instagram.com/markmusic2727/">
-  <img align="left" alt="Instagram" width="30px" src="https://i.ibb.co/ggb3yxk/insta.png" />
-</a>
-<a href="https://open.spotify.com/user/wxz5d0in64yl12jqba74n4n39?si=R1Ad2ur1Tuq7zBG4MjUr9A">
-  <img align="left" alt="Spotify" width="30px" src="https://i.ibb.co/vk4Z96V/Spotify-Logo.png" />
-</a>
-<a href="mailto:markmusic999@gmail.com">
-  <img align="left" alt="Email" width="30px" src="https://i.ibb.co/FB5PR40/mail.png" />
-</a>
-
-<br />
-<br />
-
-
-### I'm a 15 year old Full Stack Engineer and startup founder based in San Jose
-
-🙌 Creating tools that provide others with value.
+I'm a 15 year old Full-Stack Engineer and startup founder that strives to build tools that provide others with value. Here are some of the things that make me, me.
 
 - 🔧  Currently the CEO of [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
@@ -33,6 +10,7 @@
 - 🫁 Creator of [myrical.app](https://github.com/myrical-app/), an open-source tool for automated multi-central, domino-based kidney transplant matching.
 - 🚀  Working on [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software .
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/), an open-source framework to implement math and computational functionality into your code easily and without the hassle.
+- ✒️ In love with learning about and implementing the underlying algorithms behind machine learning / deep learning.
 - 🎓 Computer Science TA
 - 💡  MOST RECENT PROJECT: [Babble](https://github.com/markmusic2727/babble), The redesigned, simplistic form of communication.
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
@@ -43,7 +21,11 @@
 - 🎙  Co-host of [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
 - 🏆  PROUDEST PROJECT: [Permutant](https://github.com/markmusic2727/permutant)
 
-### ⚡️ Skills
+| __⌨️ Hours Coded__ | __🎸 Currently listening to__ |
+| ----------- | ----- |
+| 17:02:58 | _Slow Dancing in the Dark_ by Joji |
+
+#### My Skills
 
 - Primarily experienced in mobile development with Flutter & Dart. Knowledgeable in React Native
 - Experience using Python (primarily in Deep Learing / Machine Learning)
@@ -52,35 +34,18 @@
 - Technologies include Firebase/FlutterFire, Firestore, TensorFlow, Google Cloud Platform, and more
 - Solid base in electrical / mechanical engineering.
 
-<br />
+#### Contact
 
-| Projects 🚧 | Info ℹ️ |
-|--------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [Zyndicate](https://www.zyndicate.app) 🦄 | The all-in-one platform to organize your life. |
-| [Safe](https://www.safelabs.app) ⚡️ | A powerful tool for personal and community safety. |
-| [Beam AI](https://website.beam-ai.vercel.app/) 🧠 | Empowering revolutionary energy consumption with Deep Learning and the power of IOT. |
-| [Aero](https://github.com/aero-lang/aero) 🚀 |  An open-source programming language to empower everyone to build clean-cut, efficienct, powerful, and reliable software |
-| [MathiumJS](https://www.mathium.surge.sh) 🖊 | An open source framework for quickly and easily implementing math and computational functionality without the hassle. |
-| [Permutant](https://github.com/markmusic2727/permutant) ⛑ | A library that finds every possible permutation of an array using Heap's Algorithm. |
-| [Dev Sticks](https://github.com/markmusic2727/dev_sticks) 🏷 | An online repository of developer stickers from languages, frameworks, developer events, etc. |
-| [Elo Rating Algorithm](https://github.com/markmusic2727/elo_rating_algorithm) ♟ | A recreation of the Elo Rating Algorithm. |
+✉️ mail | __[markmusic999@gmail.com](malito:markmusic999@gmail.com)__
 
+🐦 twitter | __[markmusic2727](https://twitter.com/MarkMusic2727)__
 
+💬 discord | __[markmusic2727#3212]()__
 
-<details>
-<summary>Stats</summary>                                                                                                                                                                                                                                                             
-<br /> 
-<br /> 
-  
-Profile Views Since January 4th
-  
-![Profile Views Since January 4th](https://komarev.com/ghpvc/?username=markmusic2727d&style=flat-square)
+#### Here's a Silicon Valley quote before you go!
 
-![Mark's Github Stats](https://github-readme-stats.vercel.app/api?username=markmusic2727&count_private=true&show_icons=true&theme=algolia)
+>_Either she froze time, met and married the man of her dreams, unfroze time, and hopped back on to vid chat with you, or... you're the dogface. Which do you think it is? I'm on the fence._ - Bertram Gilfoyle
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=markmusic2727)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+Quote requested from _[The Silicon Valley API](https://github.com/markmusic2727/silicon-valley_api)_
 
-<br />
-<br />
-<br />
+Check back in a few hours for a new quote!
