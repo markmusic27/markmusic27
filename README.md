@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mark 👋
 
-I'm a 15 year old Full-Stack Engineer and startup founder that strives to build tools that provide others with value. Here are some of the things that make me, me.
+I'm a 15 year old Full-Stack Engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
 
 - 🔧  Currently the CEO of [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
