@@ -29,7 +29,8 @@ I'm a 15 year old Full-Stack Engineer and startup founder that strives to build 
 #### My Skills
 
 - Primarily experienced in mobile development with Flutter & Dart. Knowledgeable in React Native
-- Experience using Python (primarily in Deep Learing / Machine Learning)
+- Linear Algebra / Calculus background.
+- Machine Learning experience (took Deep Learning Coursera specialization taught by Andrew Ng)
 - Systems design & architerctural knowledge (Mostly in C++ and Rust)
 - Web development experience with React, TypeScript, & NextJS
 - Technologies include Firebase/FlutterFire, Firestore, TensorFlow, Google Cloud Platform, and more
