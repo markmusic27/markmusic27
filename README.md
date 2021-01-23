@@ -31,7 +31,7 @@ I'm a 15 year old Full-Stack Engineer and startup founder that strives to build 
 - Primarily experienced in mobile development with Flutter & Dart. Knowledgeable in React Native
 - Linear Algebra / Calculus background.
 - Machine Learning experience (took Deep Learning Coursera specialization taught by Andrew Ng)
-- Systems design & architerctural knowledge (Mostly in C++ and Rust)
+- Systems design & architerctural knowledge (Mostly in C++ & Rust)
 - Web development experience with React, TypeScript, & NextJS
 - Technologies include Firebase/FlutterFire, Firestore, TensorFlow, Google Cloud Platform, and more
 - Solid base in electrical / mechanical engineering.
@@ -48,7 +48,7 @@ I'm a 15 year old Full-Stack Engineer and startup founder that strives to build 
 
 >_Either she froze time, met and married the man of her dreams, unfroze time, and hopped back on to vid chat with you, or... you're the dogface. Which do you think it is? I'm on the fence._ - Bertram Gilfoyle
 
-Quote requested from _[The Silicon Valley API](https://github.com/markmusic2727/silicon-valley_api)_
+Quote requested from _[The Silicon Valley API](https://github.com/markmusic2727/silicon-valley_api)_, made in Go.
 
 Check back in a few hours for a new quote!
 
