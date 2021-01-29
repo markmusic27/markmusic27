@@ -38,11 +38,15 @@ I'm a 15 year old Full-Stack Engineer and startup founder that strives to build 
 
 #### Contact
 
-✉️ mail | __[markmusic999@gmail.com](mailto:markmusic999@gmail.com)__
+✉️ Email | __[markmusic999@gmail.com](mailto:markmusic999@gmail.com)__
 
-🐦 twitter | __[markmusic2727](https://twitter.com/MarkMusic2727)__
+🐦 Twitter | __[markmusic2727](https://twitter.com/MarkMusic2727)__
 
-💬 discord | __[markmusic2727#3212]()__
+💬 Discord | __[markmusic2727#3212]()__
+
+🎧 Spotify | __[@markmusic2727](https://open.spotify.com/user/wxz5d0in64yl12jqba74n4n39?si=R1Ad2ur1Tuq7zBG4MjUr9A)__
+
+📸 Instagram | __[@markmusic2727](https://www.instagram.com/markmusic2727/)__
 
 #### Here's a Silicon Valley quote before you go!
 
