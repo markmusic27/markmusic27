@@ -4,7 +4,7 @@
 
 I'm a 15 year old Full-Stack Engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
 
-- 🔧  Currently the CEO of [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
+- 🔧  Co-Founder and CEO of [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
 - 🧠  Building [Beam AI](https://website-7qxh9e77r.vercel.app/) to empower revolutionary energy optimization with Deep Learning and IoT.
 - 🫁 Creator of [myrical.app](https://github.com/myrical-app/), an open-source tool for automated multi-central, domino-based kidney transplant matching.
