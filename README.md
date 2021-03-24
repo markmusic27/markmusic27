@@ -20,10 +20,6 @@ I'm a 16 year old Full-Stack Engineer and startup founder that strives to build 
 - 🪖  FAVORITE TECH STACK: [FlutterFire](https://firebase.flutter.dev/)
 - 🎙  Co-host of [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
 
-| __⌨️ Hours Coded__ | __🎸 Currently listening to__ |
-| ----------- | ----- |
-| 17:02:58 | _Slow Dancing in the Dark_ by Joji |
-
 [//]: # (note that this is placeholder data while the infrastructure for changing it is built)
 
 #### My Skills
