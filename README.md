@@ -52,7 +52,7 @@ Quote requested from _[The Silicon Valley API](https://github.com/markmusic2727/
 
 Check back in a few hours for a new quote!
 
-[//]: # (note that this is placeholder data while the infrastructure for changing it is built)
+[//]: # (note that this is placeholder data while the infrastructure for changing it is built) 
 
 <details>
 <summary>Stats</summary>                                                                                                                                                                                                                                                             
