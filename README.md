@@ -30,7 +30,7 @@ I'm a 16 year old Full-Stack Engineer and startup founder that strives to build 
 - Systems design & architerctural knowledge (Mostly in C++ and Rust)
 - Web development experience with React, TypeScript, & NextJS
 - Technologies include Firebase/FlutterFire, Firestore, TensorFlow, Google Cloud Platform, and more
-- Solid base in electrical / mechanical engineering.
+- Solid base in electrical / mechanical engineering. 
 
 #### Contact
 
