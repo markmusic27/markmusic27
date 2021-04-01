@@ -48,7 +48,7 @@ I'm a 16 year old Full-Stack Engineer and startup founder that strives to build 
 
 >_Either she froze time, met and married the man of her dreams, unfroze time, and hopped back on to vid chat with you, or... you're the dogface. Which do you think it is? I'm on the fence._ - Bertram Gilfoyle
 
-Quote requested from _[The Silicon Valley API](https://github.com/markmusic2727/silicon-valley_api)_
+Quote requested from _[The Silicon Valley API](https://github.com/markmusic2727/silicon-valley_api)_ 
 
 Check back in a few hours for a new quote!
 
