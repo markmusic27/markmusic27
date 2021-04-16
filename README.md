@@ -4,8 +4,8 @@
 
 I'm a 16 year old Full-Stack Engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
 
-- ✈️  Co-Founder and CEO of [UpDrop](https://updrop.cc), Peer-to-peer item delivery powered by drone technology and deep learning.
-- ⌨️   Co-Founder of [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
+- ✈️  Co-Founder and CEO @ [UpDrop](https://updrop.cc), Peer-to-peer item delivery powered by drone technology and deep learning.
+- ⌨️   Co-Founder @ [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
 - 🚔  Building [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - 🫁 Creator of [myrical.app](https://github.com/myrical-app/), an open-source tool for automated multi-central, domino-based kidney transplant matching.
 - 🚀  Working on [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software.
