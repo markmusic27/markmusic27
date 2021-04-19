@@ -13,6 +13,7 @@ I'm a 16 year old Full-Stack Engineer and startup founder that strives to build 
 - 🌳 Constantly growing.
 - ✒️ In love with learning about and implementing the underlying algorithms behind machine learning / deep learning.
 - 🎓 Computer Science TA
+- 🏫 Gave a TedX talk about implementing VR learning and hands-on methodologies in developing countries. [_Check it out here_](https://www.youtube.com/watch?v=pBYWSSj9-vc).
 - 🚵‍♂️  Love MTB Biking. Recently completed the [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race.
 - 🌮  Love Cooking. Here's a great recipe for [Tom Kha Gai](https://40aprons.com/tom-kha-soup-whole30/)
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
