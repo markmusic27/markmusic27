@@ -51,8 +51,6 @@ I'm a 16 year old Full-Stack Engineer and startup founder that strives to build 
 
 Quote requested from _[The Silicon Valley API](https://github.com/markmusic2727/silicon-valley_api)_ 
 
-Check back in a few hours for a new quote!
-
 [//]: # (note that this is placeholder data while the infrastructure for changing it is built) 
 
 <details>
