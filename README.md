@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mark 👋
 
-I'm a 16 year old Full-Stack Engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
+I'm a 16 year old Full-Stack / multi-diciplinary Engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
 
 - 🚁  Co-Founder and CEO @ [updrop.cc](https://updrop.cc), Peer-to-peer item delivery powered by drone technology and deep learning.
 - ⌨️   Co-Founder @ [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
