@@ -34,6 +34,8 @@ I'm a 16 year old Full-Stack / multi-diciplinary Engineer and startup founder th
 
 #### Contact
 
+🌐 LinkedIn | __[Mark Music](https://www.linkedin.com/in/mark-music-412611210/)__
+
 📞 Superpeer | __[markmusic2727](https://superpeer.com/markmusic2727)__
 
 ✉️ Email | __[markmusic999@gmail.com](mailto:markmusic999@gmail.com)__
