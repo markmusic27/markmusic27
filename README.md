@@ -4,16 +4,15 @@
 
 I'm a 16 year old Full-Stack / multi-diciplinary Engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
 
-- 🚁  Co-Founder and CEO @ [updrop.cc](https://updrop.cc), Peer-to-peer item delivery powered by drone technology and deep learning.
 - ⌨️   Co-Founder @ [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
 - 🚔  Building [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
+- 🚁  Creator of [updrop.cc](https://updrop.cc), Peer-to-peer item delivery powered by drone technology and deep learning.
 - 🫁 Creator of [myrical.app](https://github.com/myrical-app/), an open-source tool for automated multi-central, domino-based kidney transplant matching.
-- 🚀  Working on [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software.
 - 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/), an open-source framework to implement math and computational functionality into your code easily and without the hassle.
+- 🏫 Gave a TedX talk about implementing VR learning and hands-on methodologies in developing countries. [_Check it out here_](https://www.youtube.com/watch?v=pBYWSSj9-vc).
 - 🌳 Constantly growing.
 - ✒️ In love with learning about and implementing the underlying algorithms behind machine learning / deep learning.
 - 🎓 Computer Science TA
-- 🏫 Gave a TedX talk about implementing VR learning and hands-on methodologies in developing countries. [_Check it out here_](https://www.youtube.com/watch?v=pBYWSSj9-vc).
 - 🚵‍♂️  Love MTB Biking. Recently completed the [La Ruta De los Conquistadores](https://www.larutadelosconquistadores.com/home) race.
 - 🌮  Love Cooking. Here's a great recipe for [Tom Kha Gai](https://40aprons.com/tom-kha-soup-whole30/)
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
