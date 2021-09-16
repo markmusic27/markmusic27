@@ -4,7 +4,7 @@
 
 I'm a 16 year old Full-Stack / multi-diciplinary Engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
 
-- 🪙 Co-Founder & CEO @ [redical.io](https://redical.io/), a social decentralized economy that empowers individuals to invest in people and their talent through the latest in cryptocurrency and blockchain tech..
+- 🪙 Co-Founder & CEO @ [redical.io](https://redical.io/), a social decentralized economy that empowers individuals to invest in people and their talent through the latest in cryptocurrency and blockchain tech.
 - ⌨️   Co-Founder @ [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
 - 🚔  Building [safelabs.app](https://www.safelabs.app), a powerful tool for personal and community safety.
 - 🚁  Creator of [updrop.cc](https://updrop.cc), Peer-to-peer item delivery powered by drone technology and deep learning.
