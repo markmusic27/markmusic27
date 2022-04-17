@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mark 👋
 
-I'm a 16 year old Full-Stack / multi-diciplinary engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
+I'm a 17 year old Full-Stack / multi-diciplinary engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
 
 - 🪙 Co-Founder & CEO @ [redical.io](https://redical.io/), a social decentralized economy that empowers individuals to invest in creators and their talent through the latest in cryptocurrency and blockchain tech.
 - ⌨️   Co-Founder @ [zyndicate.app](https://www.zyndicate.app/), the all-in-one platform to organize your life.
