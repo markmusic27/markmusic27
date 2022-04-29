@@ -15,7 +15,6 @@ I'm a 17 year old Full-Stack / multi-diciplinary engineer and startup founder th
 - 🌮  Love Cooking. Here's a great recipe for [Tom Kha Gai](https://40aprons.com/tom-kha-soup-whole30/)
 - 🛸  [SpaceX](https://www.spacex.com/) Fanboy
 - 🌱  Currently learning TensorFlow / Python. Check out my [_Software Engineering Learning Journey_](https://github.com/markmusic2727/learning) here
-- 🪖  FAVORITE TECH STACK: [FlutterFire](https://firebase.flutter.dev/)
 - 🎙  Co-host of [Broaden Your Horizons](https://podcasts.apple.com/us/podcast/broaden-your-horizons/id1506491023)
 
 [//]: # (note that this is placeholder data while the infrastructure for changing it is built)
