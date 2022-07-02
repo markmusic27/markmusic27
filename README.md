@@ -4,9 +4,10 @@
 
 I'm a 17 year old Full-Stack / multi-diciplinary engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
 
-- 🪙 Co-Founder & CEO @ [morph.li](https://morph.li), a social decentralized economy that empowers individuals to invest in creators and their talent through the latest in cryptocurrency and blockchain tech.
+
+- 🪙 Building [Safe](https://github.com/safedotme), an open source mobile platorm to discretely capture incidents with ease, powered by a multithreaded compression engine ([SMCE](https://github.com/safedotme#infrastructure)) written in native Swift and Kotlin.
+- 🪙 Previously CEO @ [morph.li](https://morph.li), a social decentralized economy that empowers individuals to invest in creators and their talent through the latest in cryptocurrency and blockchain tech.
 - 🚁 Won 2nd Place Senior Open Category in World Robot Olympiad in 2021 (Built an autonomous drone delivery systsem. [Learn more here.](https://drive.google.com/drive/folders/1t2-A_9hmULLehNLS3Rn8ADJMVlbPrHMO?usp=sharing)
-- 🕹  Creator of [MathiumJS](http://mathiumjs.surge.sh/docs/), an open-source framework to implement math and computational functionality into your code easily and without the hassle.
 - 🏫 Gave a TedX talk about implementing VR learning and hands-on methodologies in developing countries. [_Check it out here_](https://www.youtube.com/watch?v=pBYWSSj9-vc).
 - 🌳 Constantly growing.
 - ✒️ In love with learning about and implementing the underlying algorithms behind machine learning / deep learning.
