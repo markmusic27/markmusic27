@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mark 👋
 
-I'm a 17 year old Full-Stack / multi-diciplinary engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me.
+I'm a 17 year old Full-Stack / multi-diciplinary engineer and startup founder that strives to build tools to provide others with value. Here are some of the things that make me, me. 
 
 
 - 🛠 Building [Safe](https://github.com/safedotme), an open source mobile platorm to discretely capture incidents with ease, powered by a multithreaded compression engine (SMCE) written in native Swift and Kotlin.
